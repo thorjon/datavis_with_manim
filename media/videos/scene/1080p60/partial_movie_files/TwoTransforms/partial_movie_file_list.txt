@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/3977891868_3020532286_4272345035.mp4'
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_3242812686_4272345035.mp4'
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_2174227160_4272345035.mp4'
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_1959358871_631829896.mp4'
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_224569774_889849732.mp4'
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_557265758_3548317080.mp4'
+file 'file:/Users/thorsteinn.jonsson/Python/datavis/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_2213590919_1601094618.mp4'
